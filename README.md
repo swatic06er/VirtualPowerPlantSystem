@@ -30,4 +30,9 @@ docker-compose up -d
 ### Postman collection :
 file avilable in root directory with name (postman.json)
 
+# swagger UI
+![Screenshot from 2022-10-17 20-27-31](https://user-images.githubusercontent.com/87526488/196212546-268f97d1-d162-40f0-986d-3b1e50d6a457.png)
+
+
+
 
